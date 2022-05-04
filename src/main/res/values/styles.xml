@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimay</item>
+        <item name="colorPrimaryDark">@color/colorPrimayDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+    </style>
+
+    <color name="colorPrimay">#0277bd</color>
+
+    <color name="colorPrimayDark">#004cbc</color>
+    <color name="colorAccent">#0277bd</color>
+
+</resources>
